@@ -1,16 +1,6 @@
 2. Ziel DSB 
-2.5 SILC:
-1) 2022: welche Vars waren drinnen? -> DHB, Fachkonzept, Indizes -> SILC missy
--> Abgleich: welche sind wieder drinnen, welche nicht?
--> wenn nicht, passt das?
+  2.5 SILC:
 
-2) 2023: was ist auf Ja?
--> macht das Sinn? (Erhebungsvars)
-
-3) Indizes
--> Vorschläge für Fachkonzept
-
-Einzelne Schritte für Python
 1) 2022: welche Vars waren drinnen? -> DHB, Fachkonzept
 1.1 Variablenliste 
   -> DHB: Varnamen ausgeben lassen, bei denen es -4 nicht in Silc gibt (-> noch nicht final)
